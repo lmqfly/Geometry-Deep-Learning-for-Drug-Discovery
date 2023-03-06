@@ -84,9 +84,22 @@ https://github.com/drorlab/DIPS
 ## Macro-molecular application
 ### Property prediction
 ### Binding sites prediction  
+* **ScanNet: an interpretable geometric deeplearning model for structure-based proteinbinding site prediction** [2022]   
+Tubiana, Jérôme, Schneidman-Duhovny, Dina, Wolfson, Haim J.  
+[paper](https://www.nature.com/articles/s41592-022-01490-7) | [code](https://github.com/jertubiana/ScanNet)    
+* **Geometric Transformers for Protein Interface Contact Prediction** [2022]  
+Alex Morehead, Chen Chen, Jianlin Cheng.  
+[paper](https://arxiv.org/abs/2110.02423) | [code](https://github.com/BioinfoMachineLearning/DeepInteract)  
+* **Fast end-to-end learning on protein surfaces** [2021]  
+Freyr Sverrisson, Jean Feydy, Bruno E Correia, Michael M Bronstein.     
+[paper](https://ieeexplore.ieee.org/document/9577686) | [code](https://github.com/FreyrS/dMaSIF)  
+* **Deciphering interaction fingerprints from protein molecular surfaces using geometric deep learning** [2020]  
+Gainza et al.  
+[paper](https://www.nature.com/articles/s41592-019-0666-6) | [code](https://github.com/lpdi-epfl/masif)  
+* **DeepSite: protein-binding site predictor using 3D-convolutional neural networks** [2017]  
+Jiménez et al.  
+[paper](https://pubmed.ncbi.nlm.nih.gov/28575181/)
+
 ### Bindding score prediction
 ### Bindding conformation prediction
 ### Structure-based drug design
-* **ScanNet: an interpretable geometric deeplearning model for structure-based proteinbinding site prediction** [2022]  
-Tubiana, Jérôme, Schneidman-Duhovny, Dina, Wolfson, Haim J.  
-[paper](https://www.nature.com/articles/s41592-022-01490-7) | [code](https://github.com/jertubiana/ScanNet)
