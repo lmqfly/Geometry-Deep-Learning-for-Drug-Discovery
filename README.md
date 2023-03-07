@@ -10,21 +10,22 @@ related to  **Geometric Deep Learning** and **3D** for  **Drugs**.
 
 ## Menu
 
-  - [ Reviews](#reviews)
-
-  - [ Datasets and Benchmarks](#datasets-and-benchmarks)
+- [3D Geometry Deep Learning in Drugs](#3d-geometry-deep-learning-in-drugs)
+  - [Menu](#menu)
+  - [Reviews](#reviews)
+  - [Datasets and Benchmarks](#datasets-and-benchmarks)
     - [Datasets](#datasets)
     - [Benchmarks](#benchmarks)
-  - [ Small molecular application](#Small-molecular-application)
+  - [Small molecular application](#small-molecular-application)
     - [Property prediction](#property-prediction)
     - [Molecular conformation generation](#molecular-conformation-generation)
     - [Molecular generation](#molecular-generation)
-  - [ Macro-molecular application](#Macro-molecular-application)
+  - [Macro-molecular application](#macro-molecular-application)
     - [Property prediction](#property-prediction-1)
     - [Binding sites prediction](#binding-sites-prediction)
     - [Bindding score prediction](#bindding-score-prediction)
     - [Bindding conformation prediction](#bindding-conformation-prediction)
-    - [Structure based drug design](#structure-based-drug-design)
+    - [Structure-based drug design](#structure-based-drug-design)
 
 
 ## Reviews
@@ -103,3 +104,27 @@ Jiménez et al.
 ### Bindding score prediction
 ### Bindding conformation prediction
 ### Structure-based drug design
+* **Equivariant 3D-Conditional Diffusion Models for Molecular Linker Design** [2022]   
+Ilia Igashov et al.
+[paper](https://arxiv.org/abs/2210.05274) | [code](https://github.com/igashov/DiffLinker)  
+* **3DLinker: An E(3) Equivariant Variational Autoencoder for Molecular Linker Design** [2022]   
+Yinan Huang, Xingang Peng, Jianzhu Ma, Muhan Zhang.  
+[paper](https://proceedings.mlr.press/v162/huang22g.html) | [code](https://github.com/YinanHuang/3DLinker)  
+* **ScanNet: an interpretable geometric deeplearning model for structure-based proteinbinding site prediction** [2022]   
+Tubiana, Jérôme, Schneidman-Duhovny, Dina, Wolfson, Haim J.  
+[paper](https://www.nature.com/articles/s41592-022-01490-7) | [code](https://github.com/jertubiana/ScanNet)  
+* **ScanNet: an interpretable geometric deeplearning model for structure-based proteinbinding site prediction** [2022]   
+Tubiana, Jérôme, Schneidman-Duhovny, Dina, Wolfson, Haim J.  
+[paper](https://www.nature.com/articles/s41592-022-01490-7) | [code](https://github.com/jertubiana/ScanNet)  
+* **ScanNet: an interpretable geometric deeplearning model for structure-based proteinbinding site prediction** [2022]   
+Tubiana, Jérôme, Schneidman-Duhovny, Dina, Wolfson, Haim J.  
+[paper](https://www.nature.com/articles/s41592-022-01490-7) | [code](https://github.com/jertubiana/ScanNet)  
+* **ScanNet: an interpretable geometric deeplearning model for structure-based proteinbinding site prediction** [2022]   
+Tubiana, Jérôme, Schneidman-Duhovny, Dina, Wolfson, Haim J.  
+[paper](https://www.nature.com/articles/s41592-022-01490-7) | [code](https://github.com/jertubiana/ScanNet)  
+* **ScanNet: an interpretable geometric deeplearning model for structure-based proteinbinding site prediction** [2022]   
+Tubiana, Jérôme, Schneidman-Duhovny, Dina, Wolfson, Haim J.  
+[paper](https://www.nature.com/articles/s41592-022-01490-7) | [code](https://github.com/jertubiana/ScanNet)  
+* **ScanNet: an interpretable geometric deeplearning model for structure-based proteinbinding site prediction** [2022]   
+Tubiana, Jérôme, Schneidman-Duhovny, Dina, Wolfson, Haim J.  
+[paper](https://www.nature.com/articles/s41592-022-01490-7) | [code](https://github.com/jertubiana/ScanNet)  
