@@ -24,8 +24,8 @@ related to  **Geometric Deep Learning** and **3D** for  **Drugs**.
   - [Macro-molecular application](#macro-molecular-application)
     - [Property prediction](#property-prediction-1)
     - [Binding sites prediction](#binding-sites-prediction)
-    - [Bindding score prediction](#bindding-score-prediction)
-    - [Bindding conformation prediction](#bindding-conformation-prediction)
+    - [Binding score prediction](#binding-score-prediction)
+    - [Binding conformation prediction](#binding-conformation-prediction)
     - [Structure-based drug design](#structure-based-drug-design)
     - [Pre-traning](#pre-traning)
 
@@ -288,7 +288,7 @@ Gainza et al.
 Jiménez et al.  
 [Paper](https://pubmed.ncbi.nlm.nih.gov/28575181/)
 
-### Bindding score prediction
+### Binding score prediction
 * **Geometric Interaction Graph Neural Network for Predicting Protein-Ligand Binding Affinities from 3D Structures (GIGN).** [JPCL 2023]   
 Ziduo Yang, Weihe Zhong, Qiujie Lv, Tiejun Dong, Calvin Yu-Chian Chen.  
 [Paper](https://pubs.acs.org/doi/10.1021/acs.jpclett.2c03906) | [code](https://github.com/guaguabujianle/GIGN)    
@@ -325,7 +325,7 @@ Izhar Wallach, Michael Dzamba, Abraham Heifets.
 José Jiménez et al.  
 [Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.7b00650)
 
-### Bindding conformation prediction
+### Binding conformation prediction
 * **DiffDock: Diffusion Steps, Twists, and Turns for Molecular Docking** [2022]   
 Gabriele Corso, Hannes Stärk, Bowen Jing, Regina Barzilay, Tommi S Jaakkola.  
 [Paper](https://doi.org/10.48550/arXiv.2210.01776) 
