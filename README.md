@@ -6,8 +6,9 @@
 related to  **Geometric Deep Learning** and **3D** for  **Drugs**.
 
 **Updating ...**  
-
-
+## Recommendations and references
+Generative AI and Deep Learning for molecular/drug design.  
+https://github.com/AspirinCode/papers-for-molecular-design-using-DL
 ## Menu
 
 - [3D Geometry Deep Learning in Drugs](#3d-geometry-deep-learning-in-drugs)
@@ -23,9 +24,10 @@ related to  **Geometric Deep Learning** and **3D** for  **Drugs**.
     - [Pre-training](#pre-training)
   - [Macro-molecular application](#macro-molecular-application)
     - [Property prediction](#property-prediction-1)
-    - [Binding sites prediction](#binding-sites-prediction)
-    - [Binding score prediction](#binding-score-prediction)
-    - [Binding conformation prediction](#binding-conformation-prediction)
+    - [Molecule-protein interaction](#molecule-protein-interaction)
+      - [Binding sites prediction](#binding-sites-prediction)
+      - [Binding score prediction](#binding-score-prediction)
+      - [Binding conformation prediction](#binding-conformation-prediction)
     - [Structure-based drug design](#structure-based-drug-design)
     - [Pre-traning](#pre-traning)
 
@@ -95,7 +97,7 @@ Wenbing Huang, Jiaqi Han, Yu Rong, Tingyang Xu, Fuchun Sun, Junzhou Huang.
 
 
 * **GeomGCL: Geometric Graph Contrastive Learning for Molecular Property Prediction** [AAAI 2022]   
-Shuangli Li, Jingbo Zhou, Tong Xu, Dejing Dou, Hui Xiong.  d
+Shuangli Li, Jingbo Zhou, Tong Xu, Dejing Dou, Hui Xiong.  
 [Paper](https://arxiv.org/abs/2109.11730) | [code](https://github.com/agave233/GeomGCL)    
 
 * **Geometric and Physical Quantities Improve E(3) Equivariant Message Passing** [ICLR 2022]   
@@ -266,9 +268,9 @@ Bowen Jing, Stephan Eismann, Patricia Suriana, Raphael J.L. Townshend, Ron Dror.
 Oliver T. Unke, Stefan Chmiela, Michael Gastegger, Kristof T. Schütt, Huziel E. Sauceda & Klaus-Robert Müller .  
 [Paper](https://www.nature.com/articles/s41467-021-27504-0) | [code](https://github.com/OUnke/SpookyNet)  
 
-
-### Binding sites prediction  
-* **ScanNet: an interpretable geometric deeplearning model for structure-based proteinbinding site prediction** [Nature Methods 2022]   
+### Molecule-Protein interaction
+#### Binding sites prediction  
+* **ScanNet: an interpretable geometric deeplearning model for structure-based protein binding site prediction** [Nature Methods 2022]   
 Tubiana, Jérôme, Schneidman-Duhovny, Dina, Wolfson, Haim J.  
 [Paper](https://www.nature.com/articles/s41592-022-01490-7) | [code](https://github.com/jertubiana/ScanNet)    
 
@@ -288,7 +290,7 @@ Gainza et al.
 Jiménez et al.  
 [Paper](https://pubmed.ncbi.nlm.nih.gov/28575181/)
 
-### Binding score prediction
+#### Binding score prediction
 * **Geometric Interaction Graph Neural Network for Predicting Protein-Ligand Binding Affinities from 3D Structures (GIGN).** [JPCL 2023]   
 Ziduo Yang, Weihe Zhong, Qiujie Lv, Tiejun Dong, Calvin Yu-Chian Chen.  
 [Paper](https://pubs.acs.org/doi/10.1021/acs.jpclett.2c03906) | [code](https://github.com/guaguabujianle/GIGN)    
@@ -325,7 +327,7 @@ Izhar Wallach, Michael Dzamba, Abraham Heifets.
 José Jiménez et al.  
 [Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.7b00650)
 
-### Binding conformation prediction
+#### Binding conformation prediction
 * **DiffDock: Diffusion Steps, Twists, and Turns for Molecular Docking** [2022]   
 Gabriele Corso, Hannes Stärk, Bowen Jing, Regina Barzilay, Tommi S Jaakkola.  
 [Paper](https://doi.org/10.48550/arXiv.2210.01776) 
