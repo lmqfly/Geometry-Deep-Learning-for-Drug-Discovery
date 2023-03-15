@@ -249,6 +249,9 @@ Jonathan Godwin, Michael Schaarschmidt, Alexander Gaunt, Alvaro Sanchez-Gonzalez
 Xiaomin Fang, Lihang Liu, Jieqiong Lei, Donglong He, Shanzhuo Zhang, Jingbo Zhou, Fan Wang, Hua Wu & Haifeng Wang.  
 [Paper](https://www.nature.com/articles/s42256-021-00438-4) | [code](https://github.com/PaddlePaddle/PaddleHelix/tree/dev/apps/pretrained_compound/ChemRL/GEM)  
 
+* **3D Infomax improves GNNs for Molecular Property Prediction** [ICML 2022]   
+Hannes Stärk, Dominique Beaini, Gabriele Corso, Prudencio Tossou, Christian Dallago, Stephan Günnemann, Pietro Liò.  
+[Paper](https://arxiv.org/abs/2110.04126) | [code](https://github.com/HannesStark/3DInfomax)  
 
 
 ## Macro-molecular application
