@@ -3,7 +3,7 @@
 #  Geometry Deep Learning for Drug Discovery and Life Science
 ![contributing-image](figures/3D-plus.png)
 
-related to  **Geometric Deep Learning** and **3D** for  **Drugs**.
+related to  **Geometric Deep Learning** for  **Drug discovery** and **Life Science**.
 
 **Updating ...**  
 ## Recommendations and references
