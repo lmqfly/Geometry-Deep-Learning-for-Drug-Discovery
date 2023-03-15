@@ -7,8 +7,10 @@ related to  **Geometric Deep Learning** for  **Drug discovery** and **Life Scien
 
 **Updating ...**  
 ## Recommendations and references
-Generative AI and Deep Learning for molecular/drug design.  
+
+**Generative AI and Deep Learning for molecular/drug design**   
 https://github.com/AspirinCode/papers-for-molecular-design-using-DL
+
 ## Menu
 
 - [3D Geometry Deep Learning in Drugs](#3d-geometry-deep-learning-in-drugs)
