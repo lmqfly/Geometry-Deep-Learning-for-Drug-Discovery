@@ -361,6 +361,10 @@ Jingxiao Bao, Xiao He,* and John Z. H. Zhang*.
 [Paper](https://pubmed.ncbi.nlm.nih.gov/33979150/) | [code](https://github.com/BaoJingxiao/DeepBSP)  
 
 ### Structure-based drug design
+* **3D Equivariant Diffusion for Target-Aware Molecule Generation and Affinity Prediction** [ICLR 2023]   
+Jiaqi Guan, Wesley Wei Qian, Xingang Peng, Yufeng Su, Jian Peng, Jianzhu Ma.  
+[Paper](https://arxiv.org/abs/2303.03543) | [code](https://github.com/guanjq/targetdiff)  
+
 * **Structure-based Drug Design with Equivariant Diffusion Models** [2022]   
 Arne Schneuing et al.  
 [Paper](https://doi.org/10.48550/arXiv.2210.13695) | [code](https://github.com/arneschneuing/DiffSBDD)  
