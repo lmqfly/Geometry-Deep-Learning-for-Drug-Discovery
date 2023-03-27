@@ -88,6 +88,10 @@ https://github.com/drorlab/DIPS
 
 ## Small molecular application
 ### Property prediction    
+* **ComENet: Towards Complete and Efficient Message Passing for 3D Molecular Graphs** [NeurIPS 2022]   
+Limei Wang, Yi Liu, Yuchao Lin, Haoran Liu, Shuiwang Ji.  
+[Paper](https://arxiv.org/abs/2206.08515) | [code](https://github.com/divelab/DIG)  
+
 * **Spherical message passing for 3d graph networks** [ICLR 2022]   
 Yi Liu, Limei Wang, Meng Liu, Xuan Zhang, Bora Oztekin, Shuiwang Ji.  
 [Paper](https://arxiv.org/abs/2102.05013) | [code](https://github.com/divelab/DIG)    
