@@ -112,6 +112,10 @@ Ladislav Rampášek, Mikhail Galkin, Vijay Prakash Dwivedi, Anh Tuan Luu, Guy Wo
 Dominic Masters, Josef Dean, Kerstin Klaser, Zhiyi Li, Sam Maddrell-Mander, Adam Sanders, Hatem Helal, Deniz Beker, Ladislav Rampášek, Dominique Beaini.  
 [Paper](https://arxiv.org/abs/2212.02229) | [code](https://github.com/graphcore/ogb-lsc-pcqm4mv2)  
 
+* **Benchmarking Graphormer on Large-Scale Molecular Modeling Datasets** [2022]   
+Yu Shi, Shuxin Zheng, Guolin Ke, Yifei Shen, Jiacheng You, Jiyan He, Shengjie Luo, Chang Liu, Di He, Tie-Yan Liu.  
+[Paper](https://arxiv.org/abs/2203.04810) | [code](https://github.com/Microsoft/Graphormer)  
+
 * **Spherical message passing for 3d graph networks** [ICLR 2022]   
 Yi Liu, Limei Wang, Meng Liu, Xuan Zhang, Bora Oztekin, Shuiwang Ji.  
 [Paper](https://arxiv.org/abs/2102.05013) | [code](https://github.com/divelab/DIG)    
@@ -248,6 +252,10 @@ Niklas W. A. Gebauer, Michael Gastegger, Kristof T.
 [Paper](https://arxiv.org/abs/1906.00957) | [code](www.github.com/atomistic-machine-learning/G-SchNet)    
 
 ### Pre-training
+* **Transformer-M: One Transformer Can Understand Both 2D & 3D Molecular Data** [ICLR 2023]   
+Shengjie Luo, Tianlang Chen, Yixian Xu, Shuxin Zheng, Tie-Yan Liu, Liwei Wang, Di He.  
+[Paper](https://arxiv.org/abs/2210.01765) | [code](https://github.com/lsj2408/Transformer-M)  
+
 * **Uni-Mol: A Universal 3D Molecular Representation Learning Framework** [ICLR 2023]   
 Gengmo Zhou, Zhifeng Gao, Qiankun Ding, Hang Zheng, Hongteng Xu, Zhewei Wei, Linfeng Zhang, Guolin Ke.  
 [Paper](https://openreview.net/forum?id=6K2RM6wVqKu) | [code](https://github.com/dptech-corp/Uni-Mol)  
@@ -259,6 +267,10 @@ Shengchao Liu, Hongyu Guo, Jian Tang.
 * **Pre-training via Denoising for Molecular Property Prediction** [ICLR 2023]   
 Sheheryar Zaidi, Michael Schaarschmidt, James Martens, Hyunjik Kim, Yee Whye Teh, Alvaro Sanchez-Gonzalez, Peter Battaglia, Razvan Pascanu, Jonathan Godwin.  
 [Paper](https://arxiv.org/abs/2206.00133) | [code](https://github.com/shehzaidi/pre-training-via-denoising)   
+
+* **Energy-Motivated Equivariant Pretraining for 3D Molecular Graphs** [AAAI 2023]   
+Rui Jiao, Jiaqi Han, Wenbing Huang, Yu Rong, Yang Liu.  
+[Paper](https://arxiv.org/abs/2207.08824) | [code](https://github.com/jiaor17/3D-EMGP)  
 
 * **Zero-Shot 3D Drug Design by Sketching and Generating** [NeurIPS 2022]   
 Siyu Long, Yi Zhou, Xinyu Dai, Hao Zhou.  
