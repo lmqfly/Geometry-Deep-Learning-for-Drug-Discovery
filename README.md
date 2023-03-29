@@ -84,6 +84,10 @@ http://pdbbind.org.cn/
 
 https://github.com/drorlab/DIPS
 
+**PCQM4Mv2**
+
+https://ogb.stanford.edu/docs/lsc/pcqm4mv2/
+
 ### Benchmarks
 
 ## Small molecular application
@@ -91,6 +95,14 @@ https://github.com/drorlab/DIPS
 * **ComENet: Towards Complete and Efficient Message Passing for 3D Molecular Graphs** [NeurIPS 2022]   
 Limei Wang, Yi Liu, Yuchao Lin, Haoran Liu, Shuiwang Ji.  
 [Paper](https://arxiv.org/abs/2206.08515) | [code](https://github.com/divelab/DIG)  
+
+* **Recipe for a General, Powerful, Scalable Graph Transformer** [NeurIPS 2022]   
+Ladislav Rampášek, Mikhail Galkin, Vijay Prakash Dwivedi, Anh Tuan Luu, Guy Wolf, Dominique Beaini.  
+[Paper](https://arxiv.org/abs/2205.12454) | [code](https://github.com/rampasek/GraphGPS)  
+
+* **GPS++: An Optimised Hybrid MPNN/Transformer for Molecular Property Prediction** [2022]   
+Dominic Masters, Josef Dean, Kerstin Klaser, Zhiyi Li, Sam Maddrell-Mander, Adam Sanders, Hatem Helal, Deniz Beker, Ladislav Rampášek, Dominique Beaini.  
+[Paper](https://arxiv.org/abs/2212.02229) | [code](https://github.com/graphcore/ogb-lsc-pcqm4mv2)  
 
 * **Spherical message passing for 3d graph networks** [ICLR 2022]   
 Yi Liu, Limei Wang, Meng Liu, Xuan Zhang, Bora Oztekin, Shuiwang Ji.  
@@ -104,14 +116,17 @@ Philipp Thölke, Gianni De Fabritiis.
 Wenbing Huang, Jiaqi Han, Yu Rong, Tingyang Xu, Fuchun Sun, Junzhou Huang.  
 [Paper](https://arxiv.org/abs/2203.06442v1) | [code](https://github.com/hanjq17/GMN)    
 
+* **Geometric and Physical Quantities Improve E(3) Equivariant Message Passing** [ICLR 2022]   
+Johannes Brandstetter, Rob Hesselink, Elise van der Pol, Erik J Bekkers, Max Welling.  
+[Paper](https://arxiv.org/abs/2110.02905)
 
 * **GeomGCL: Geometric Graph Contrastive Learning for Molecular Property Prediction** [AAAI 2022]   
 Shuangli Li, Jingbo Zhou, Tong Xu, Dejing Dou, Hui Xiong.  
 [Paper](https://arxiv.org/abs/2109.11730) | [code](https://github.com/agave233/GeomGCL)    
 
-* **Geometric and Physical Quantities Improve E(3) Equivariant Message Passing** [ICLR 2022]   
-Johannes Brandstetter, Rob Hesselink, Elise van der Pol, Erik J Bekkers, Max Welling.  
-[Paper](https://arxiv.org/abs/2110.02905)
+* **Geometric Transformer for End-to-End Molecule Properties Prediction** [IJCAI 2022]   
+Yoni Choukroun, Lior Wolf.  
+[Paper](https://arxiv.org/abs/2110.13721) | [code](https://github.com/yoniLc/GeometricTransformerMolecule)
 
 * **E(3)-equivariant graph neural networks for data-efficient and accurate interatomic potentials** [Nature Communications 2021]   
 Simon Batzner, Albert Musaelian, Lixin Sun, Mario Geiger, Jonathan P. Mailoa, Mordechai Kornbluth, Nicola Molinari, Tess E. Smidt, Boris Kozinsky.  
@@ -257,6 +272,9 @@ Xiaomin Fang, Lihang Liu, Jieqiong Lei, Donglong He, Shanzhuo Zhang, Jingbo Zhou
 Hannes Stärk, Dominique Beaini, Gabriele Corso, Prudencio Tossou, Christian Dallago, Stephan Günnemann, Pietro Liò.  
 [Paper](https://arxiv.org/abs/2110.04126) | [code](https://github.com/HannesStark/3DInfomax)  
 
+* **Unified 2D and 3D Pre-Training of Molecular Representations** [KDD 2022]   
+Jinhua Zhu, Yingce Xia, Lijun Wu, Shufang Xie, Tao Qin, Wengang Zhou, Houqiang Li, Tie-Yan Liu.  
+[Paper](https://arxiv.org/abs/2207.08806) | [code](https://github.com/teslacool/UnifiedMolPretrain)  
 
 ## Macro-molecular application
 ### Property prediction
