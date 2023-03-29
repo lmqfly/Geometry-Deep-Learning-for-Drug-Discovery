@@ -90,8 +90,16 @@ https://ogb.stanford.edu/docs/lsc/pcqm4mv2/
 
 ### Benchmarks
 
+**Leaderboard for PCQM4Mv2**
+
+https://ogb.stanford.edu/docs/lsc/leaderboards/#pcqm4mv2
+
 ## Small molecular application
 ### Property prediction    
+* **Molformer: Motif-based Transformer on 3D Heterogeneous Molecular Graphs** [AAAI 2023]   
+Fang Wu, Dragomir Radev, Stan Z. Li.  
+[Paper](https://arxiv.org/abs/2110.01191v7) | [code](https://github.com/smiles724/Molformer)  
+
 * **ComENet: Towards Complete and Efficient Message Passing for 3D Molecular Graphs** [NeurIPS 2022]   
 Limei Wang, Yi Liu, Yuchao Lin, Haoran Liu, Shuiwang Ji.  
 [Paper](https://arxiv.org/abs/2206.08515) | [code](https://github.com/divelab/DIG)  
@@ -138,7 +146,7 @@ Kristof T. Schütt, Oliver T. Unke, Michael Gastegger.
 
 * **E (n) equivariant graph neural networks** [ICML 2021]   
 Victor Garcia Satorras, Emiel Hoogeboom, Max Welling.  
-[Paper](https://arxiv.org/abs/2102.09844v3)  
+[Paper](https://arxiv.org/abs/2102.09844v3) | [code](https://github.com/vgsatorras/egnn)
 
 * **GemNet: Universal Directional Graph Neural Networks for Molecules** [ICLR 2021]   
 Johannes Gasteiger, Florian Becker, Stephan Günnemann.  
