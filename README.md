@@ -100,6 +100,10 @@ https://ogb.stanford.edu/docs/lsc/leaderboards/#pcqm4mv2
 Fang Wu, Dragomir Radev, Stan Z. Li.  
 [Paper](https://arxiv.org/abs/2110.01191v7) | [code](https://github.com/smiles724/Molformer)  
 
+* **LagNet: Deep Lagrangian Mechanics for Plug-and-Play Molecular Representation Learning** [AAAI 2023]   
+Chunyan Li, JunfengYao, Jinsong Su, Zhaoyang Liu, Xiangxiang Zeng, Chenxi Huang.  
+[Paper](https://underline.io/lecture/67859-lagnet-deep-lagrangian-mechanics-for-plug-and-play-molecular-representation-learning) 
+
 * **ComENet: Towards Complete and Efficient Message Passing for 3D Molecular Graphs** [NeurIPS 2022]   
 Limei Wang, Yi Liu, Yuchao Lin, Haoran Liu, Shuiwang Ji.  
 [Paper](https://arxiv.org/abs/2206.08515) | [code](https://github.com/divelab/DIG)  
