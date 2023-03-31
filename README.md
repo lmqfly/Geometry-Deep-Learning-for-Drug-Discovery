@@ -253,6 +253,9 @@ Niklas W. A. Gebauer, Michael Gastegger, Kristof T.
 [Paper](https://arxiv.org/abs/1906.00957) | [code](www.github.com/atomistic-machine-learning/G-SchNet)    
 
 ### Pre-training
+* **Mole-BERT: Rethinking Pre-training Graph Neural Networks for Molecules** [ICLR 2023]Jun Xia, Chengshuai Zhao, Bozhen Hu, Zhangyang Gao, Cheng Tan, Yue Liu, Siyuan Li, Stan Z. Li.  
+[Paper](https://openreview.net/forum?id=jevY-DtiZTR) | [code](https://github.com/junxia97/Mole-BERT)
+
 * **LagNet: Deep Lagrangian Mechanics for Plug-and-Play Molecular Representation Learning** [AAAI 2023]   
 Chunyan Li, JunfengYao, Jinsong Su, Zhaoyang Liu, Xiangxiang Zeng, Chenxi Huang.  
 [Paper](https://underline.io/lecture/67859-lagnet-deep-lagrangian-mechanics-for-plug-and-play-molecular-representation-learning) 
