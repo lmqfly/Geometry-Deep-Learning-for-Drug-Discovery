@@ -16,7 +16,8 @@ https://github.com/Peldom/papers_for_protein_design_using_DL
 
 ## Menu
 
-- [3D Geometry Deep Learning in Drugs](#3d-geometry-deep-learning-in-drugs)
+- [ Geometry Deep Learning for Drug Discovery and Life Science](#geometry-deep-learning-for-drug-discovery-and-life-science)
+  - [Recommendations and references](#recommendations-and-references)
   - [Menu](#menu)
   - [Reviews](#reviews)
   - [Datasets and Benchmarks](#datasets-and-benchmarks)
@@ -29,7 +30,7 @@ https://github.com/Peldom/papers_for_protein_design_using_DL
     - [Pre-training](#pre-training)
   - [Macro-molecular application](#macro-molecular-application)
     - [Property prediction](#property-prediction-1)
-    - [Molecule-protein interaction](#molecule-protein-interaction)
+    - [Molecule-Protein interaction](#molecule-protein-interaction)
       - [Binding sites prediction](#binding-sites-prediction)
       - [Binding score prediction](#binding-score-prediction)
       - [Binding conformation prediction](#binding-conformation-prediction)
@@ -99,10 +100,6 @@ https://ogb.stanford.edu/docs/lsc/leaderboards/#pcqm4mv2
 * **Molformer: Motif-based Transformer on 3D Heterogeneous Molecular Graphs** [AAAI 2023]   
 Fang Wu, Dragomir Radev, Stan Z. Li.  
 [Paper](https://arxiv.org/abs/2110.01191v7) | [code](https://github.com/smiles724/Molformer)  
-
-* **LagNet: Deep Lagrangian Mechanics for Plug-and-Play Molecular Representation Learning** [AAAI 2023]   
-Chunyan Li, JunfengYao, Jinsong Su, Zhaoyang Liu, Xiangxiang Zeng, Chenxi Huang.  
-[Paper](https://underline.io/lecture/67859-lagnet-deep-lagrangian-mechanics-for-plug-and-play-molecular-representation-learning) 
 
 * **ComENet: Towards Complete and Efficient Message Passing for 3D Molecular Graphs** [NeurIPS 2022]   
 Limei Wang, Yi Liu, Yuchao Lin, Haoran Liu, Shuiwang Ji.  
@@ -256,6 +253,10 @@ Niklas W. A. Gebauer, Michael Gastegger, Kristof T.
 [Paper](https://arxiv.org/abs/1906.00957) | [code](www.github.com/atomistic-machine-learning/G-SchNet)    
 
 ### Pre-training
+* **LagNet: Deep Lagrangian Mechanics for Plug-and-Play Molecular Representation Learning** [AAAI 2023]   
+Chunyan Li, JunfengYao, Jinsong Su, Zhaoyang Liu, Xiangxiang Zeng, Chenxi Huang.  
+[Paper](https://underline.io/lecture/67859-lagnet-deep-lagrangian-mechanics-for-plug-and-play-molecular-representation-learning) 
+
 * **Transformer-M: One Transformer Can Understand Both 2D & 3D Molecular Data** [ICLR 2023]   
 Shengjie Luo, Tianlang Chen, Yixian Xu, Shuxin Zheng, Tie-Yan Liu, Liwei Wang, Di He.  
 [Paper](https://arxiv.org/abs/2210.01765) | [code](https://github.com/lsj2408/Transformer-M)  
@@ -299,6 +300,10 @@ Hannes Stärk, Dominique Beaini, Gabriele Corso, Prudencio Tossou, Christian Dal
 * **Unified 2D and 3D Pre-Training of Molecular Representations** [KDD 2022]   
 Jinhua Zhu, Yingce Xia, Lijun Wu, Shufang Xie, Tao Qin, Wengang Zhou, Houqiang Li, Tie-Yan Liu.  
 [Paper](https://arxiv.org/abs/2207.08806) | [code](https://github.com/teslacool/UnifiedMolPretrain)  
+
+* **HamNet: Conformation-Guided Molecular Representation with Hamiltonian Neural Networks** [ICLR 2021]   
+Ziyao Li, Shuwen Yang, Guojie Song, Lingsheng Cai.  
+[Paper](https://arxiv.org/abs/2105.03688)  
 
 ## Macro-molecular application
 ### Property prediction
