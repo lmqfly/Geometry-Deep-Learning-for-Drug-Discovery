@@ -460,3 +460,8 @@ Zuobai Zhang, Minghao Xu, Arian Jamasb, Vijil Chenthamarakshan, Aurelie Lozano, 
 * **Pre-training of Equivariant Graph Matching Networks with Conformation Flexibility for Drug Binding** [Advanced Science 2022]   
 Fang Wu, Shuting Jin, Yinghui Jiang, Xurui Jin, Bowen Tang, Zhangming Niu, Xiangrong Liu, Qiang Zhang, Xiangxiang Zeng, Stan Z. Li.  
 [Paper](https://arxiv.org/abs/2204.08663) | [code](https://github.com/smiles724/ProtMD)  
+
+* **Self-Supervised Pre-training for Protein Embeddings Using Tertiary Structures** [AAAI 2022]   
+Yuzhi Guo, Jiaxiang Wu, Hehuan Ma, Junzhou Huang.  
+[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/20636)  
+
