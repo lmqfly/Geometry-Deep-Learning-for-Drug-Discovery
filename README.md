@@ -34,7 +34,8 @@ https://github.com/Peldom/papers_for_protein_design_using_DL
       - [Binding sites prediction](#binding-sites-prediction)
       - [Binding score prediction](#binding-score-prediction)
       - [Binding conformation prediction](#binding-conformation-prediction)
-    - [Structure-based drug design](#structure-based-drug-design)
+      - [Structure-based drug design](#structure-based-drug-design)
+    - [Macro-molecular design](#macro-molecular-design)
     - [Pre-traning](#pre-traning)
 
 
@@ -451,6 +452,15 @@ Shitong Luo, Jiaqi Guan, Jianzhu Ma, Jian Peng
 * **Generating 3d molecular structures conditional on a receptor binding site with deep generative models** [Chemical Science 2021]   
 Tomohide Masuda, Matthew Ragoza, David Ryan Koes.  
 [Paper](https://arxiv.org/abs/2010.14442) | [code](https://github.com/mattragoza/LiGAN)   
+
+### Macro-molecular design
+* **Conditional Antibody Design as 3D Equivariant Graph Translation** [ICLR 2023]   
+Xiangzhe Kong, Wenbing Huang, Yang Liu.  
+[Paper](https://arxiv.org/abs/2208.06073) | [code](https://github.com/THUNLP-MT/MEAN) 
+
+* **Protein Sequence and Structure Co-Design with Equivariant Translation** [ICLR 2023]   
+Chence Shi, Chuanrui Wang, Jiarui Lu, Bozitao Zhong, Jian Tang.  
+[Paper](https://arxiv.org/abs/2210.087613)
 
 ### Pre-traning
 * **Protein Representation Learning by Geometric Structure Pretraining** [ICLR 2023]   
