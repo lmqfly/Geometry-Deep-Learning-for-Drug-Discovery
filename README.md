@@ -36,6 +36,7 @@ https://github.com/Peldom/papers_for_protein_design_using_DL
       - [Binding conformation prediction](#binding-conformation-prediction)
       - [Structure-based drug design](#structure-based-drug-design)
     - [Macro-molecular design](#macro-molecular-design)
+    - [Folding]()
     - [Pre-traning](#pre-traning)
 
 
@@ -461,6 +462,15 @@ Xiangzhe Kong, Wenbing Huang, Yang Liu.
 * **Protein Sequence and Structure Co-Design with Equivariant Translation** [ICLR 2023]   
 Chence Shi, Chuanrui Wang, Jiarui Lu, Bozitao Zhong, Jian Tang.  
 [Paper](https://arxiv.org/abs/2210.087613)
+
+### Folding
+* **EigenFold: Generative Protein Structure Prediction with Diffusion Models** 
+Bowen Jing, Ezra Erives, Peter Pao-Huang, Gabriele Corso, Bonnie Berger, Tommi Jaakkola.  
+[Paper](https://arxiv.org/abs/2304.02198) | [code](https://github.com/bjing2016/EigenFold)  
+
+* **Highly accurate protein structure prediction with AlphaFold** [Nature]
+John et al.  
+[Paper](https://www.nature.com/articles/s41586-021-03819-2) | [code](https://github.com/deepmind/alphafold)   
 
 ### Pre-traning
 * **Protein Representation Learning by Geometric Structure Pretraining** [ICLR 2023]   
