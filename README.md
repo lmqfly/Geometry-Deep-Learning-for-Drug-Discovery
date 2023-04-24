@@ -36,7 +36,7 @@ https://github.com/Peldom/papers_for_protein_design_using_DL
       - [Binding conformation prediction](#binding-conformation-prediction)
       - [Structure-based drug design](#structure-based-drug-design)
     - [Macro-molecular design](#macro-molecular-design)
-    - [Folding]()
+    - [Folding](#folding)
     - [Pre-traning](#pre-traning)
 
 
@@ -463,12 +463,16 @@ Xiangzhe Kong, Wenbing Huang, Yang Liu.
 Chence Shi, Chuanrui Wang, Jiarui Lu, Bozitao Zhong, Jian Tang.  
 [Paper](https://arxiv.org/abs/2210.087613)
 
+* **Iterative Refinement Graph Neural Network for Antibody Sequence-Structure Co-design** [ICLR 2022 spotlight]  
+Wengong Jin, Jeremy Wohlwend, Regina Barzilay, Tommi Jaakkola.
+[Paper](https://arxiv.org/abs/2110.04624) | [code](https://github.com/wengong-jin/RefineGNN) 
+
 ### Folding
-* **EigenFold: Generative Protein Structure Prediction with Diffusion Models** 
+* **EigenFold: Generative Protein Structure Prediction with Diffusion Models**  [ICLR 2023 workshop]  
 Bowen Jing, Ezra Erives, Peter Pao-Huang, Gabriele Corso, Bonnie Berger, Tommi Jaakkola.  
 [Paper](https://arxiv.org/abs/2304.02198) | [code](https://github.com/bjing2016/EigenFold)  
 
-* **Highly accurate protein structure prediction with AlphaFold** [Nature]
+* **Highly accurate protein structure prediction with AlphaFold** [Nature]  
 John et al.  
 [Paper](https://www.nature.com/articles/s41586-021-03819-2) | [code](https://github.com/deepmind/alphafold)   
 
