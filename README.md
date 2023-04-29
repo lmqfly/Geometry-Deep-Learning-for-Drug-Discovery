@@ -42,6 +42,9 @@ https://github.com/Peldom/papers_for_protein_design_using_DL
 
 ## Reviews
 
+* **A Systematic Survey of Chemical Pre-trained Models** [IJCAI 2023]   
+[Paper](https://arxiv.org/abs/2210.16484) 
+
 * **Structure-based drug design with geometric deep learning**[2023]  
 [[Paper]](https://doi.org/10.1016/j.sbi.2023.102548)
 
@@ -99,9 +102,13 @@ https://ogb.stanford.edu/docs/lsc/leaderboards/#pcqm4mv2
 
 ## Small molecular application
 ### Property prediction    
+* **Geometry-Complete Perceptron Networks for 3D Molecular Graphs** [AAAI 2023]   
+Alex Morehead, Jianlin Cheng.  
+[Paper](https://arxiv.org/abs/2211.02504) | [code](https://github.com/BioinfoMachineLearning/GCPNet) 
+
 * **Molformer: Motif-based Transformer on 3D Heterogeneous Molecular Graphs** [AAAI 2023]   
 Fang Wu, Dragomir Radev, Stan Z. Li.  
-[Paper](https://arxiv.org/abs/2110.01191v7) | [code](https://github.com/smiles724/Molformer)  
+[Paper](https://arxiv.org/abs/2110.01191) | [code](https://github.com/smiles724/Molformer)  
 
 * **ComENet: Towards Complete and Efficient Message Passing for 3D Molecular Graphs** [NeurIPS 2022]   
 Limei Wang, Yi Liu, Yuchao Lin, Haoran Liu, Shuiwang Ji.  
