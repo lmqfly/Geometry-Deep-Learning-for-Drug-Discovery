@@ -43,7 +43,7 @@ https://github.com/Peldom/papers_for_protein_design_using_DL
 ## Reviews
 
 * **A Systematic Survey of Chemical Pre-trained Models** [IJCAI 2023]   
-[Paper](https://arxiv.org/abs/2210.16484) 
+[[Paper]](https://arxiv.org/abs/2210.16484) 
 
 * **Structure-based drug design with geometric deep learning**[2023]  
 [[Paper]](https://doi.org/10.1016/j.sbi.2023.102548)
