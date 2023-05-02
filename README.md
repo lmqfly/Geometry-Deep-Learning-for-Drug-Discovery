@@ -229,6 +229,10 @@ Elman Mansimov, Omar Mahmood, Seokho Kang, Kyunghyun Cho.
 
 
 ### Molecular generation
+* **MUDiff: Unified Diffusion for Complete Molecule Generation** [2023]   
+Chenqing Hua, Sitao Luan, Minkai Xu, Rex Ying, Jie Fu, Stefano Ermon, Doina Precup.  
+[Paper](https://arxiv.org/abs/2304.14621) 
+
 * **Equivariant Diffusion for Molecule Generation in 3D** [ICML 2022]   
 Emiel Hoogeboom, Victor Garcia Satorras, Clément Vignac, Max Welling.  
 [Paper](https://arxiv.org/abs/2203.17003) | [code](https://github.com/ehoogeboom/e3_diffusion_for_molecules)    
