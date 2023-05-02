@@ -229,6 +229,10 @@ Elman Mansimov, Omar Mahmood, Seokho Kang, Kyunghyun Cho.
 
 
 ### Molecular generation
+* **Geometry-Complete Diffusion for 3D Molecule Generation** [ICLR 2023]   
+Alex Morehead, Jianlin Cheng.  
+[Paper](https://arxiv.org/abs/2302.04313) | [code](https://github.com/BioinfoMachineLearning/bio-diffusion)
+
 * **MUDiff: Unified Diffusion for Complete Molecule Generation** [2023]   
 Chenqing Hua, Sitao Luan, Minkai Xu, Rex Ying, Jie Fu, Stefano Ermon, Doina Precup.  
 [Paper](https://arxiv.org/abs/2304.14621) 
