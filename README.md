@@ -328,6 +328,10 @@ Ziyao Li, Shuwen Yang, Guojie Song, Lingsheng Cai.
 
 ## Macro-molecular application
 ### Property prediction
+* **Learning Hierarchical Protein Representations via Complete 3D Graph Networks** [ICLR 2023]   
+Limei Wang, Haoran Liu, Yi Liu, Jerry Kurtin, Shuiwang Ji.  
+[Paper](https://openreview.net/pdf?id=9X-hgLDLYkQ) | [code](https://github.com/divelab/DIG)  
+
 * **ScanNet: an interpretable geometric deeplearning model for structure-based protein binding site prediction** [Nature communications 2021]   
 Nicolas Renaud, Cunliang Geng, Sonja Georgievska, Francesco Ambrosetti, Lars Ridder, Dario F. Marzella, Manon F. Réau, Alexandre M. J. J. Bonvin & Li C. Xue .  
 [Paper](https://www.nature.com/articles/s41467-021-27396-0) | [code](https://github.com/DeepRank/deeprank)  
