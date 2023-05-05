@@ -229,6 +229,10 @@ Elman Mansimov, Omar Mahmood, Seokho Kang, Kyunghyun Cho.
 
 
 ### Molecular generation
+* **Geometric Latent Diffusion Models for 3D Molecule Generation** [2023]   
+Minkai Xu, Alexander Powers, Ron Dror, Stefano Ermon, Jure Leskovec.  
+[Paper](https://arxiv.org/abs/2305.01140) | [code](https://github.com/MinkaiXu/GeoLDM)
+
 * **Geometry-Complete Diffusion for 3D Molecule Generation** [ICLR 2023]   
 Alex Morehead, Jianlin Cheng.  
 [Paper](https://arxiv.org/abs/2302.04313) | [code](https://github.com/BioinfoMachineLearning/bio-diffusion)
