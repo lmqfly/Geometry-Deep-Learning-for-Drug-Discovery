@@ -480,7 +480,7 @@ Tomohide Masuda, Matthew Ragoza, David Ryan Koes.
 ### Macro-molecular design 
 * **Cross-Gate MLP with Protein Complex Invariant Embedding is A One-Shot Antibody Designer** [2023]   
 Cheng Tan, Zhangyang Gao, Stan Z. Li.  
-[Paper](https://arxiv.org/abs/2302.00203](https://arxiv.org/abs/2305.09480)
+[Paper](https://arxiv.org/abs/2305.09480)
 
 * **End-to-End Full-Atom Antibody Design** [ICML 2023]   
 Xiangzhe Kong, Wenbing Huang, Yang Liu.  
