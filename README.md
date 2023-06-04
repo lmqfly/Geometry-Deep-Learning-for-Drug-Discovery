@@ -477,10 +477,22 @@ Shitong Luo, Jiaqi Guan, Jianzhu Ma, Jian Peng
 Tomohide Masuda, Matthew Ragoza, David Ryan Koes.  
 [Paper](https://arxiv.org/abs/2010.14442) | [code](https://github.com/mattragoza/LiGAN)   
 
-### Macro-molecular design
+### Macro-molecular design 
+* **Cross-Gate MLP with Protein Complex Invariant Embedding is A One-Shot Antibody Designer** [2023]   
+Cheng Tan, Zhangyang Gao, Stan Z. Li.  
+[Paper](https://arxiv.org/abs/2302.00203](https://arxiv.org/abs/2305.09480)
+
+* **End-to-End Full-Atom Antibody Design** [ICML 2023]   
+Xiangzhe Kong, Wenbing Huang, Yang Liu.  
+[Paper](https://arxiv.org/abs/2302.00203) | [code](https://github.com/THUNLP-MT/dyMEAN)
+
 * **Conditional Antibody Design as 3D Equivariant Graph Translation** [ICLR 2023]   
 Xiangzhe Kong, Wenbing Huang, Yang Liu.  
 [Paper](https://arxiv.org/abs/2208.06073) | [code](https://github.com/THUNLP-MT/MEAN) 
+
+* **Antigen-Specific Antibody Design and Optimization with Diffusion-Based Generative Models** [NIPS 2022]   
+Shitong Luo, Yufeng Su, Xingang Peng, Sheng Wang, Jian Peng, Jianzhu Ma.  
+[Paper](https://papers.nips.cc/paper_files/paper/2022/file/3fa7d76a0dc1179f1e98d1bc62403756-Paper-Conference.pdf) | [code](https://github.com/luost26/diffab) 
 
 * **Protein Sequence and Structure Co-Design with Equivariant Translation** [ICLR 2023]   
 Chence Shi, Chuanrui Wang, Jiarui Lu, Bozitao Zhong, Jian Tang.  
