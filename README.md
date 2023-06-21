@@ -102,6 +102,14 @@ https://ogb.stanford.edu/docs/lsc/leaderboards/#pcqm4mv2
 
 ## Small molecular application
 ### Property prediction    
+* **Uncertainty Estimation for Molecules: Desiderata and Methods** [ICML 2023]   
+Tom Wollschläger, Nicholas Gao, Bertrand Charpentier, Mohamed Amine Ketata, Stephan Günnemann.  
+[Paper](https://openreview.net/forum?id=DjwMRloMCO)  
+
+* **Quantum 3D Graph Learning with Applications to Molecule Embedding** [ICML 2023]   
+Ge Yan, Huaijin Wu, Junchi Yan.  
+[Paper](https://openreview.net/pdf?id=mLOWz0e1Yq)
+
 * **Geometry-Complete Perceptron Networks for 3D Molecular Graphs** [AAAI 2023]   
 Alex Morehead, Jianlin Cheng.  
 [Paper](https://arxiv.org/abs/2211.02504) | [code](https://github.com/BioinfoMachineLearning/GCPNet) 
@@ -229,7 +237,18 @@ Elman Mansimov, Omar Mahmood, Seokho Kang, Kyunghyun Cho.
 
 
 ### Molecular generation
-* **Geometric Latent Diffusion Models for 3D Molecule Generation** [2023]   
+* *** **Coarse-to-Fine: a Hierarchical Diffusion Model for Molecule Generation in 3D** [ICML 2023]   
+Xingang Peng, Jiaqi Guan, qiang liu, Jianzhu Ma.  
+[Paper](https://openreview.net/forum?id=gfGLMZR27W) | [code](https://github.com/pengxingang/MolDiff)** [ICML 2023]  
+
+Bo Qiang, Yuxuan Song, Minkai Xu, Jingjing Gong, Bowen Gao, Hao Zhou, Wei-Ying Ma, Yanyan Lan.  
+[Paper](https://openreview.net/forum?id=7haEvhb25X) | [code](https://github.com/qiangbo1222/HierDiff)  
+
+* **Coarse-to-Fine: a Hierarchical Diffusion Model for Molecule Generation in 3D** [ICML 2023]   
+Bo Qiang, Yuxuan Song, Minkai Xu, Jingjing Gong, Bowen Gao, Hao Zhou, Wei-Ying Ma, Yanyan Lan.  
+[Paper](https://openreview.net/forum?id=7haEvhb25X) | [code](https://github.com/qiangbo1222/HierDiff)
+
+* **Geometric Latent Diffusion Models for 3D Molecule Generation** [ICML 2023]   
 Minkai Xu, Alexander Powers, Ron Dror, Stefano Ermon, Jure Leskovec.  
 [Paper](https://arxiv.org/abs/2305.01140) | [code](https://github.com/MinkaiXu/GeoLDM)
 
@@ -274,6 +293,14 @@ Niklas W. A. Gebauer, Michael Gastegger, Kristof T.
 [Paper](https://arxiv.org/abs/1906.00957) | [code](www.github.com/atomistic-machine-learning/G-SchNet)    
 
 ### Pre-training
+* **Fractional Denoising for 3D Molecular Pre-training** [ICML 2023]
+Shikun Feng, Yuyan Ni, Yanyan Lan, Zhi-Ming Ma, Weiying Ma.
+[Paper](https://openreview.net/forum?id=vH6cWEqceA) | [code](https://github.com/fengshikun/Frad)
+
+* **A Group Symmetric Stochastic Differential Equation Model for Molecule Multi-modal Pretraining** [ICML 2023]
+Shengchao Liu, weitao Du, Zhi-Ming Ma, Hongyu Guo, Jian Tang  
+[Paper](https://openreview.net/forum?id=mPEVwu50th) | [code](https://github.com/chao1224/MoleculeSDE)
+
 * **Mole-BERT: Rethinking Pre-training Graph Neural Networks for Molecules** [ICLR 2023]
 Jun Xia, Chengshuai Zhao, Bozhen Hu, Zhangyang Gao, Cheng Tan, Yue Liu, Siyuan Li, Stan Z. Li.  
 [Paper](https://openreview.net/forum?id=jevY-DtiZTR) | [code](https://github.com/junxia97/Mole-BERT)
@@ -441,6 +468,14 @@ Jingxiao Bao, Xiao He,* and John Z. H. Zhang*.
 [Paper](https://pubmed.ncbi.nlm.nih.gov/33979150/) | [code](https://github.com/BaoJingxiao/DeepBSP)  
 
 ### Structure-based drug design
+* **Learning Subpocket Prototypes for Generalizable Structure-based Drug Design** [ICML 2023]   
+ZAIXI ZHANG, Qi Liu.  
+[Paper](https://openreview.net/forum?id=gfdK6nK8AI) | [code](https://github.com/zaixizhang/DrugGPS_ICML23)  
+
+* **DecompDiff: Diffusion Models with Decomposed Priors for Structure-Based Drug Design** [ICML 2023]   
+Jiaqi Guan, Xiangxin Zhou, Yuwei Yang, Yu Bao, Jian Peng, Jianzhu Ma, Qiang Liu, Liang Wang, Quanquan Gu.  
+[Paper](https://openreview.net/forum?id=9qy9DizMlr) | [code](https://github.com/bytedance/DecompDiff)  
+
 * **3D Equivariant Diffusion for Target-Aware Molecule Generation and Affinity Prediction** [ICLR 2023]   
 Jiaqi Guan, Wesley Wei Qian, Xingang Peng, Yufeng Su, Jian Peng, Jianzhu Ma.  
 [Paper](https://arxiv.org/abs/2303.03543) | [code](https://github.com/guanjq/targetdiff)  
@@ -478,6 +513,27 @@ Tomohide Masuda, Matthew Ragoza, David Ryan Koes.
 [Paper](https://arxiv.org/abs/2010.14442) | [code](https://github.com/mattragoza/LiGAN)   
 
 ### Macro-molecular design 
+* **End-to-End Full-Atom Antibody Design** [ICML 2023]   
+Xiangzhe Kong, Wenbing Huang, Yang Liu.
+[Paper](https://openreview.net/forum?id=zAXusLf6R8) | [code]( https://github.com/THUNLP-MT/dyMEAN)  
+
+* **AbODE: Ab initio antibody design using conjoined ODEs** [ICML 2023]   
+Yogesh Verma, Markus Heinonen, Vikas Garg.  
+[Paper](https://openreview.net/forum?id=EB5unD2ojL)  
+
+
+* **SE(3) diffusion model with application to protein backbone generation** [ICML 2023]   
+Jason Yim, Brian L. Trippe, Valentin De Bortoli, Emile Mathieu, Arnaud Doucet, Regina Barzilay, Tommi S. Jaakkola.  
+[Paper](https://openreview.net/forum?id=m8OUBymxwv) | [code]( https://github.com/jasonkyuyim/se3_diffusion)  
+
+* **Generating Novel, Designable, and Diverse Protein Structures by Equivariantly Diffusing Oriented Residue Clouds** [ICML 2023]   
+Yeqing Lin, Mohammed AlQuraishi.  
+[Paper](https://openreview.net/forum?id=4Kw5hKY8u8) | [code]( https://github.com/aqlaboratory/genie)  
+
+* **Chemically Transferable Generative Backmapping of Coarse-Grained Proteins** [ICML 2023]   
+Soojung Yang, Rafael Gomez-Bombarelli.  
+[Paper](https://openreview.net/forum?id=7DnvWyVkUo) | [code](https://github.com/learningmatter-mit/GenZProt)  
+
 * **Cross-Gate MLP with Protein Complex Invariant Embedding is A One-Shot Antibody Designer** [2023]   
 Cheng Tan, Zhangyang Gao, Stan Z. Li.  
 [Paper](https://arxiv.org/abs/2305.09480)
@@ -499,7 +555,7 @@ Chence Shi, Chuanrui Wang, Jiarui Lu, Bozitao Zhong, Jian Tang.
 [Paper](https://arxiv.org/abs/2210.087613)
 
 * **Iterative Refinement Graph Neural Network for Antibody Sequence-Structure Co-design** [ICLR 2022 spotlight]  
-Wengong Jin, Jeremy Wohlwend, Regina Barzilay, Tommi Jaakkola.
+Wengong Jin, Jeremy Wohlwend, Regina Barzilay, Tommi Jaakkola.  
 [Paper](https://arxiv.org/abs/2110.04624) | [code](https://github.com/wengong-jin/RefineGNN) 
 
 ### Folding
