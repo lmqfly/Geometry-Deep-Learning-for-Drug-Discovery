@@ -514,7 +514,7 @@ Tomohide Masuda, Matthew Ragoza, David Ryan Koes.
 
 ### Macro-molecular design 
 * **End-to-End Full-Atom Antibody Design** [ICML 2023]   
-Xiangzhe Kong, Wenbing Huang, Yang Liu.
+Xiangzhe Kong, Wenbing Huang, Yang Liu.  
 [Paper](https://openreview.net/forum?id=zAXusLf6R8) | [code]( https://github.com/THUNLP-MT/dyMEAN)  
 
 * **AbODE: Ab initio antibody design using conjoined ODEs** [ICML 2023]   
