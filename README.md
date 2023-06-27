@@ -237,7 +237,7 @@ Elman Mansimov, Omar Mahmood, Seokho Kang, Kyunghyun Cho.
 
 
 ### Molecular generation
-* **Coarse-to-Fine: a Hierarchical Diffusion Model for Molecule Generation in 3D** [ICML 2023]   
+* **MolDiff: Addressing the Atom-Bond Inconsistency Problem in 3D Molecule Diffusion Generation** [ICML 2023]   
 Xingang Peng, Jiaqi Guan, qiang liu, Jianzhu Ma.  
 [Paper](https://openreview.net/forum?id=gfGLMZR27W) | [code](https://github.com/pengxingang/MolDiff)** [ICML 2023]  
 
