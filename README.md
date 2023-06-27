@@ -237,12 +237,9 @@ Elman Mansimov, Omar Mahmood, Seokho Kang, Kyunghyun Cho.
 
 
 ### Molecular generation
-* *** **Coarse-to-Fine: a Hierarchical Diffusion Model for Molecule Generation in 3D** [ICML 2023]   
+* **Coarse-to-Fine: a Hierarchical Diffusion Model for Molecule Generation in 3D** [ICML 2023]   
 Xingang Peng, Jiaqi Guan, qiang liu, Jianzhu Ma.  
 [Paper](https://openreview.net/forum?id=gfGLMZR27W) | [code](https://github.com/pengxingang/MolDiff)** [ICML 2023]  
-
-Bo Qiang, Yuxuan Song, Minkai Xu, Jingjing Gong, Bowen Gao, Hao Zhou, Wei-Ying Ma, Yanyan Lan.  
-[Paper](https://openreview.net/forum?id=7haEvhb25X) | [code](https://github.com/qiangbo1222/HierDiff)  
 
 * **Coarse-to-Fine: a Hierarchical Diffusion Model for Molecule Generation in 3D** [ICML 2023]   
 Bo Qiang, Yuxuan Song, Minkai Xu, Jingjing Gong, Bowen Gao, Hao Zhou, Wei-Ying Ma, Yanyan Lan.  
