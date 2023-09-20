@@ -259,59 +259,59 @@ José Jiménez et al.
 
 * **MolDiff: Addressing the Atom-Bond Inconsistency Problem in 3D Molecule Diffusion Generation** [ICML 2023]   
 Xingang Peng, Jiaqi Guan, qiang liu, Jianzhu Ma.  
-[Paper](https://openreview.net/forum?id=gfGLMZR27W) | [code](https://github.com/pengxingang/MolDiff)
+[Paper](https://openreview.net/forum?id=gfGLMZR27W) | [code](https://github.com/pengxingang/MolDiff)  
 
 * **Coarse-to-Fine: a Hierarchical Diffusion Model for Molecule Generation in 3D** [ICML 2023]   
 Bo Qiang, Yuxuan Song, Minkai Xu, Jingjing Gong, Bowen Gao, Hao Zhou, Wei-Ying Ma, Yanyan Lan.  
-[Paper](https://openreview.net/forum?id=7haEvhb25X) | [code](https://github.com/qiangbo1222/HierDiff)
+[Paper](https://openreview.net/forum?id=7haEvhb25X) | [code](https://github.com/qiangbo1222/HierDiff)  
 
 * **Geometric Latent Diffusion Models for 3D Molecule Generation** [ICML 2023]   
 Minkai Xu, Alexander Powers, Ron Dror, Stefano Ermon, Jure Leskovec.  
-[Paper](https://arxiv.org/abs/2305.01140) | [code](https://github.com/MinkaiXu/GeoLDM)
+[Paper](https://arxiv.org/abs/2305.01140) | [code](https://github.com/MinkaiXu/GeoLDM)  
 
 * **Geometry-Complete Diffusion for 3D Molecule Generation** [ICLR 2023]   
 Alex Morehead, Jianlin Cheng.  
-[Paper](https://arxiv.org/abs/2302.04313) | [code](https://github.com/BioinfoMachineLearning/bio-diffusion)
+[Paper](https://arxiv.org/abs/2302.04313) | [code](https://github.com/BioinfoMachineLearning/bio-diffusion)  
 
 * **MDM: Molecular Diffusion Model for 3D Molecule Generation** [AAAI 2023]   
-Lei Huang, Hengtong Zhang, Tingyang Xu, Ka-Chun Wong
-[Paper](https://arxiv.org/pdf/2209.05710.pdf) | [code](https://github.com/tencent-ailab/MDM)
+Lei Huang, Hengtong Zhang, Tingyang Xu, Ka-Chun Wong  
+[Paper](https://arxiv.org/pdf/2209.05710.pdf) | [code](https://github.com/tencent-ailab/MDM)  
 
 * **MiDi: Mixed Graph and 3D Denoising Diffusion for Molecule Generation** [ECML 2023]   
-Clement Vignac, Nagham Osman, Laura Toni, Pascal Frossard
-[Paper](http://export.arxiv.org/pdf/2302.09048) | [code](https://github.com/cvignac/MiDi)
+Clement Vignac, Nagham Osman, Laura Toni, Pascal Frossard  
+[Paper](http://export.arxiv.org/pdf/2302.09048) | [code](https://github.com/cvignac/MiDi)  
 
 * **MUDiff: Unified Diffusion for Complete Molecule Generation** [2023]   
 Chenqing Hua, Sitao Luan, Minkai Xu, Rex Ying, Jie Fu, Stefano Ermon, Doina Precup.  
-[Paper](https://arxiv.org/abs/2304.14621)
+[Paper](https://arxiv.org/abs/2304.14621)  
 
 * **SILVR: Guided Diffusion for Molecule Generation** [2023]   
 Nicholas T. Runcie, Antonia S. J. S. Mey.  
-[Paper](https://arxiv.org/pdf/2304.10905.pdf) | [code](https://github.com/meyresearch/SILVR)
+[Paper](https://arxiv.org/pdf/2304.10905.pdf) | [code](https://github.com/meyresearch/SILVR)  
 
 * **Learning Joint 2D & 3D Diffusion Models for Complete Molecule Generation** [2023]   
 Nicholas T. Runcie, Antonia S. J. S. Mey.  
-[Paper](https://arxiv.org/pdf/2305.12347.pdf) | [code](https://github.com/GRAPH-0/JODO)
+[Paper](https://arxiv.org/pdf/2305.12347.pdf) | [code](https://github.com/GRAPH-0/JODO)  
 
 * **Hyperbolic Graph Diffusion Model for Molecule Generation** [2023]   
-Lingfeng Wen, Xian Wei
-[Paper](https://arxiv.org/pdf/2306.07618.pdf)
+Lingfeng Wen, Xian Wei  
+[Paper](https://arxiv.org/pdf/2306.07618.pdf)  
 
 * **Shape-conditioned 3D Molecule Generation via Equivariant Diffusion Models** [2023]   
-Ziqi Chen, Bo Peng, Srinivasan Parthasarathy, Xia Ning
-[Paper](https://arxiv.org/pdf/2308.11890.pdf)
+Ziqi Chen, Bo Peng, Srinivasan Parthasarathy, Xia Ning  
+[Paper](https://arxiv.org/pdf/2308.11890.pdf)  
 
 * **EC-Conf: An Ultra-fast Diffusion Model for Molecular Conformation Generation with Equivariant Consistency** [2023]   
-Zhiguang Fan, Yuedong Yang, Mingyuan Xu, Hongming Chen
-[Paper](https://arxiv.org/pdf/2308.00237.pdf)
+Zhiguang Fan, Yuedong Yang, Mingyuan Xu, Hongming Chen  
+[Paper](https://arxiv.org/pdf/2308.00237.pdf)  
 
 * **Torsional Diffusion for Molecular Conformer Generation** [NeurIPS 2022]
-Bowen Jing, Gabriele Corso, Jeffrey Chang, Regina Barzilay, Tommi Jaakkola
-[Paper](https://arxiv.org/pdf/2206.01729.pdf) | [code](https://github.com/gcorso/torsional-diffusion)
+Bowen Jing, Gabriele Corso, Jeffrey Chang, Regina Barzilay, Tommi Jaakkola  
+[Paper](https://arxiv.org/pdf/2206.01729.pdf) | [code](https://github.com/gcorso/torsional-diffusion)  
 
 * **Diffusion-based Molecule Generation with Informative Prior Bridges** [NeurIPS 2022]
-Lemeng Wu, Chengyue Gong, Xingchao Liu, Mao Ye, Qiang Liu 
-[Paper](https://arxiv.org/pdf/2209.00865.pdf) 
+Lemeng Wu, Chengyue Gong, Xingchao Liu, Mao Ye, Qiang Liu  
+[Paper](https://arxiv.org/pdf/2209.00865.pdf)   
 
 * **Equivariant Diffusion for Molecule Generation in 3D** [ICML 2022]   
 Emiel Hoogeboom, Victor Garcia Satorras, Clément Vignac, Max Welling.  
