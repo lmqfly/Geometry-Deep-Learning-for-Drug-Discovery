@@ -301,7 +301,7 @@ Lingfeng Wen, Xian Wei
 Ziqi Chen, Bo Peng, Srinivasan Parthasarathy, Xia Ning  
 [Paper](https://arxiv.org/pdf/2308.11890.pdf)  
 
-* **EC-Conf: An Ultra-fast Diffusion Model for Molecular Conformation Generation with Equivariant Consistency** [2023]  
+* **EC-Conf: An Ultra-fast Diffusion Model for Molecular Conformation Generation with Equivariant Consistency** [2023]   
 Zhiguang Fan, Yuedong Yang, Mingyuan Xu, Hongming Chen  
 [Paper](https://arxiv.org/pdf/2308.00237.pdf)   
 
