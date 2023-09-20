@@ -303,13 +303,13 @@ Ziqi Chen, Bo Peng, Srinivasan Parthasarathy, Xia Ning
 
 * **EC-Conf: An Ultra-fast Diffusion Model for Molecular Conformation Generation with Equivariant Consistency** [2023]   
 Zhiguang Fan, Yuedong Yang, Mingyuan Xu, Hongming Chen  
-[Paper](https://arxiv.org/pdf/2308.00237.pdf)  
+[Paper](https://arxiv.org/pdf/2308.00237.pdf)    
 
 * **Torsional Diffusion for Molecular Conformer Generation** [NeurIPS 2022]
 Bowen Jing, Gabriele Corso, Jeffrey Chang, Regina Barzilay, Tommi Jaakkola  
-[Paper](https://arxiv.org/pdf/2206.01729.pdf) | [code](https://github.com/gcorso/torsional-diffusion)  
+[Paper](https://arxiv.org/pdf/2206.01729.pdf) | [code](https://github.com/gcorso/torsional-diffusion)   
 
-* **Diffusion-based Molecule Generation with Informative Prior Bridges** [NeurIPS 2022]
+* **Diffusion-based Molecule Generation with Informative Prior Bridges** [NeurIPS 2022]  
 Lemeng Wu, Chengyue Gong, Xingchao Liu, Mao Ye, Qiang Liu  
 [Paper](https://arxiv.org/pdf/2209.00865.pdf)   
 
