@@ -93,6 +93,10 @@ https://github.com/drorlab/DIPS
 
 https://ogb.stanford.edu/docs/lsc/pcqm4mv2/
 
+**CrossDocked2020**
+
+https://github.com/gnina/models/tree/master/data
+
 ### Benchmarks
 
 **Leaderboard for PCQM4Mv2**
