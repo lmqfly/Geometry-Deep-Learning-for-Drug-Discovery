@@ -305,7 +305,7 @@ Ziqi Chen, Bo Peng, Srinivasan Parthasarathy, Xia Ning
 Zhiguang Fan, Yuedong Yang, Mingyuan Xu, Hongming Chen  
 [Paper](https://arxiv.org/pdf/2308.00237.pdf)   
 
-* **Torsional Diffusion for Molecular Conformer Generation** [NeurIPS 2022]
+* **Torsional Diffusion for Molecular Conformer Generation** [NeurIPS 2022]  
 Bowen Jing, Gabriele Corso, Jeffrey Chang, Regina Barzilay, Tommi Jaakkola   
 [Paper](https://arxiv.org/pdf/2206.01729.pdf) | [code](https://github.com/gcorso/torsional-diffusion)   
 
