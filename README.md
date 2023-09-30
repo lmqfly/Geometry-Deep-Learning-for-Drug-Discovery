@@ -258,7 +258,11 @@ José Jiménez et al.
 [Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.7b00650)
 
 ## Molecular design
-### Ligand-based drug design
+### Ligand-based drug design 
+
+* **DiffMol: 3D Structured Molecule Generation with Discrete Denoising Diffusion Probabilistic Models** [ICML 2023 Workshop]   
+Weitong Zhang, Xiaoyun Wang, Justin Smith, Joe Eaton, Brad Rees, Quanquan Gu.  
+[Paper](https://openreview.net/forum?id=x43ZyXJC9q) 
 
 
 * **MolDiff: Addressing the Atom-Bond Inconsistency Problem in 3D Molecule Diffusion Generation** [ICML 2023]   
