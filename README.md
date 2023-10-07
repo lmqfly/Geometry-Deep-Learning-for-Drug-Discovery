@@ -429,10 +429,6 @@ Soojung Yang, Rafael Gomez-Bombarelli.
 Cheng Tan, Zhangyang Gao, Stan Z. Li.  
 [Paper](https://arxiv.org/abs/2305.09480)
 
-* **End-to-End Full-Atom Antibody Design** [ICML 2023]   
-Xiangzhe Kong, Wenbing Huang, Yang Liu.  
-[Paper](https://arxiv.org/abs/2302.00203) | [code](https://github.com/THUNLP-MT/dyMEAN)
-
 * **Conditional Antibody Design as 3D Equivariant Graph Translation** [ICLR 2023]   
 Xiangzhe Kong, Wenbing Huang, Yang Liu.  
 [Paper](https://arxiv.org/abs/2208.06073) | [code](https://github.com/THUNLP-MT/MEAN) 
