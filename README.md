@@ -613,8 +613,6 @@ Jinhua Zhu, Yingce Xia, Lijun Wu, Shufang Xie, Tao Qin, Wengang Zhou, Houqiang L
 
 * **HamNet: Conformation-Guided Molecular Representation with Hamiltonian Neural Networks** [ICLR 2021]   
 Ziyao Li, Shuwen Yang, Guojie Song, Lingsheng Cai.
-
-11
 [Paper](https://arxiv.org/abs/2105.03688)  
 
 
