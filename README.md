@@ -104,6 +104,10 @@ https://github.com/gnina/models/tree/master/data
 https://ogb.stanford.edu/docs/lsc/leaderboards/#pcqm4mv2
 
 ## Molecular property prediction
+* **A universal framework for accurate and efficient geometric deep learning of molecular systems** [Nature Scientific Reports 2023]   
+Shuo Zhang, Yang Liu, Lei Xie.  
+[Paper](https://www.nature.com/articles/s41598-023-46382-8) | [code](https://github.com/XieResearchGroup/Physics-aware-Multiplex-GNN)
+
 * **Uncertainty Estimation for Molecules: Desiderata and Methods** [ICML 2023]   
 Tom Wollschläger, Nicholas Gao, Bertrand Charpentier, Mohamed Amine Ketata, Stephan Günnemann.  
 [Paper](https://openreview.net/forum?id=DjwMRloMCO)  
@@ -221,6 +225,10 @@ Gainza et al.
 Jiménez et al.  
 [Paper](https://pubmed.ncbi.nlm.nih.gov/28575181/)
 ### Binding affinity prediction
+* **A universal framework for accurate and efficient geometric deep learning of molecular systems** [Nature Scientific Reports 2023]   
+Shuo Zhang, Yang Liu, Lei Xie.  
+[Paper](https://www.nature.com/articles/s41598-023-46382-8) | [code](https://github.com/XieResearchGroup/Physics-aware-Multiplex-GNN)
+
 * **Geometric Interaction Graph Neural Network for Predicting Protein-Ligand Binding Affinities from 3D Structures (GIGN).** [JPCL 2023]   
 Ziduo Yang, Weihe Zhong, Qiujie Lv, Tiejun Dong, Calvin Yu-Chian Chen.  
 [Paper](https://pubs.acs.org/doi/10.1021/acs.jpclett.2c03906) | [code](https://github.com/guaguabujianle/GIGN)    
