@@ -5,7 +5,7 @@
 
 💡Related to  **Geometric Deep Learning** for  **Drug discovery** and **Life Science**.
 
-💡Related review paper has been accepted by Expert System With Applications [[Paper]](https://www.sciencedirect.com/science/article/pii/S0957417423030002).
+💡Related review paper has been **accepted** by Expert System With Applications [[Paper]](https://www.sciencedirect.com/science/article/pii/S0957417423030002).
 
 **🔔Updating ...**  
 ## Recommendations and references
